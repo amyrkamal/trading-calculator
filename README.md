@@ -6,3 +6,4 @@ seem simple but buying and selling see usually is percentage. so it is not easy 
 # trading-calculator
 # trading-calculator
 # trading-calculator
+# trading-calculator
